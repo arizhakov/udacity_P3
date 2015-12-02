@@ -1,0 +1,12 @@
+References:
+
+1. https://wiki.openstreetmap.org/wiki/OSM_XML
+2. https://wiki.openstreetmap.org/wiki/Key:amenity 
+3. https://wiki.openstreetmap.org/wiki/Main_Page
+4. https://docs.python.org/2/library/re.html 
+5. Code to create a smaller sample of .osm file used, as recommended in Instructor Notes. 
+Final version of the code used is in the Submission Contents.
+6. https://www.youtube.com/watch?v=E2PkF-XHj-o 
+7. http://stackoverflow.com/questions/30953611/mongodb-error-validating-settings-only-one-positional-argument-is-allowed 
+8. https://docs.mongodb.org/manual/tutorial/manage-mongodb-processes/ 
+9. OpenStreetMap Sample Project

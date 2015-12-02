@@ -1,0 +1,13 @@
+a link to the map position wrangled in project:
+https://s3.amazonaws.com/metro-extracts.mapzen.com/seattle_washington.osm.bz2
+
+a short description of the area, and a reason for choice.:
+The input OpenStreetMap dataset was chosen for the Seattle, Washington area. This was chosen due to personal interest 
+in the area (i.e., interest in potential immigration) after a weekend that was recently spent there. 
+For these purposes, quality of life considerations are chosen for exploration with the goal of getting an idea of 
+the types of amenities and entertainment available in the area (massive assumption exists in that an adequate work 
+opportunity is found for employment).
+
+
+
+
